@@ -12,6 +12,12 @@ Este é meu primeiro repositorio no GITHUB para desafio de projeto.
 
 * [Portugol Web](https://portugol-webstudio.cubos.io/ide)
 
+* [Otimizar IMG para paginas web](https://tinypng.com/)
+
+* [CSS links uteis](https://www.w3schools.com/css/default.asp)
+
+  
+
 ## Minhas Anotações :notebook:
 
 * [Comandos GIT](git/Comandos_GIT.md)
